@@ -4,3 +4,11 @@ Over many a quaint and curious volume of forgotten lore—
 As of some one gently rapping, rapping at my chamber door.
 “’Tis some visitor,” I muttered, “tapping at my chamber door—
             Only this and nothing more.”
+
+
+A message from Phil:
+Not sure how we're going to work on this asynchronously between now and next week, but
+It looks like you can @mention someone in your commit and they'll be notified.
+That might be the way to notify everyone that you've made a contribution and are ready 
+for the next person to branch & commit.
+PC
